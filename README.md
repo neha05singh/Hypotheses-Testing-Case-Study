@@ -56,9 +56,9 @@ price quotes provided by Mary and Barry.
 The data set contains the order number, 1 through 12, and the price quotes by Mary
 and Barry for each order. Each row in the data set is the same order. Thus, Mary and
 Barry produced quotes for the same orders.
-AnalytixLabs, Website: www.analytixlabs.co.in Email: info@analytixlabs.co.in phone: +91-95-55-219007
-BUSINESS PROBLEM-3:
-BACKGROUND: The New Life Residential Treatment Facility is a NGO that treatsteenagers who
+
+**BUSINESS PROBLEM-3:**
+_BACKGROUND:_ The New Life Residential Treatment Facility is a NGO that treatsteenagers who
 have shown signs of mental illness. It provides housing and supervision of teenagers who are
 making the transition from psychiatric hospitals back into the community. Because many of
 the teenagers were severely abused as children and have been involved with the juvenile
@@ -101,9 +101,9 @@ month, out of the total number of employees
 the facility, out of the total number of residents
  CI (%): The percentage of critical incident reports written that month, out of
 the total number of residents
-AnalytixLabs, Website: www.analytixlabs.co.in Email: info@analytixlabs.co.in phone: +91-95-55-219007
-BUSINESS PROBLEM-4
-BACKGROUND: Software development projectstypically follow six basic phases: Requirements,
+
+**BUSINESS PROBLEM-4**
+_BACKGROUND:_ Software development projectstypically follow six basic phases: Requirements,
 design, implementation (and integration), testing (validation), deployment (installation) and
 maintenance. First, general requirements are gathered, and the scope of the functionality is
 defined. Then, alternative scenarios for the required functionality are developed and
@@ -172,7 +172,6 @@ BUSINESS PROBLEM: Use the survey resultsto addressthe following questions
 The data set contains 330 surveys collected during three Film on the Rocks movies:
 Ferris Bueller’s Day Off, Old School, and Willy Wonka and the Chocolate Factory.
 The variables are:
-AnalytixLabs, Website: www.analytixlabs.co.in Email: info@analytixlabs.co.in phone: +91-95-55-219007
 Gender The patron’s gender: 1 = male; 2 = female
 Marital Status The patron’s marital status: 1 = married; 2 = single
 Age The patron’s age in years: 1= 1-12; 2 = 13-30; 3 = 31-60; 4 = 60+
