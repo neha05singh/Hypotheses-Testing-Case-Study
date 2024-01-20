@@ -3,7 +3,8 @@
 **BUSINESS PROBLEM-1**
 _BACKGROUND:_ The Lending Club is a peer-to-peer lending site where members make loans to
 each other. The site makes anonymized data on loans and borrowers publicly available.
-BUSINESS PROBLEM:
+
+**BUSINESS PROBLEM:**
 Using lending club loans data, the team would like to test below hypothesis on how different
 factors effecing each other (Hint: You may leverage hypothesis testing using statistical tests)
 a. Intrest rate is varied for different loan amounts (Less intrest charged for high loan
